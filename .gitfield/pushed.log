@@ -24,3 +24,7 @@
   Diff Summary:
      .gitfield/gitlab.sigil.md | 59 +++++++++++++++++++++++++++++++++++++++++++++++
      1 file changed, 59 insertions(+)
+[2025-06-20T19:13:39Z] Bitbucket: https://bitbucket.org/thefoldwithin/retort-tails-001, Branch=master, Commit=8c9899a
+  Diff Summary:
+     .gitfield/bitbucket.sigil.md | 59 ++++++++++++++++++++++++++++++++++++++++++++
+     1 file changed, 59 insertions(+)
