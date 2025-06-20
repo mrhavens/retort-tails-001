@@ -6,25 +6,25 @@
 - **Local Repo Path**: `/mnt/c/fieldcraft/retort-tails-001`
 - **Remote Label**: `local`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-20 14:27:16`
+- **Repo Created**: `2025-06-20 14:42:31`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-20 14:27:16`
-- **Last Commit SHA**: `6e71621c1d8c1d9895bb743f7c5974150f5fb537`
-- **Last Commit Message**: `Copied /mnt/c/fieldcraft/retort-tails-001/docs/GITFIELD.md.sig.4E27D37C358872BF to docs at 2025-06-20T19:01:30Z`
+- **This Commit Timestamp**: `2025-06-20 14:42:31`
+- **Last Commit SHA**: `836a271c68192a93681d7630fe601bb587472ceb`
+- **Last Commit Message**: `Generated docs/integrity.sha256 at 2025-06-20T19:01:30Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Fri Jun 20 14:27:02 2025 -0500`
+- **Last Commit Date**: `Fri Jun 20 14:42:03 2025 -0500`
 - **This Commit URL**: `file:///home/mrhavens/git-local-repos/git-sigil.git`
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `50`
-- **Tracked Files**: `120`
+- **Total Commits**: `67`
+- **Tracked Files**: `123`
 - **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
 
@@ -48,7 +48,7 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 57 minutes`
+- **System Uptime**: `up 1 hour, 13 minutes`
 - **MAC Address**: `00:15:5d:c0:f2:fc`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
