@@ -16,3 +16,7 @@
      .gitfield/.radicle-push-state | 1 +
      .gitfield/pushed.log          | 6 ++++++
      2 files changed, 7 insertions(+)
+[2025-06-20T19:11:18Z] Codeberg: https://codeberg.org/mrhavens/retort-tails-001, Branch=master, Commit=8c9899a
+  Diff Summary:
+     .gitfield/codeberg.sigil.md | 59 +++++++++++++++++++++++++++++++++++++++++++++
+     1 file changed, 59 insertions(+)
