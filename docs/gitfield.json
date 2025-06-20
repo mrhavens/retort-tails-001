@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareSourceCode",
+  "name": "retort-tails-001",
+  "url": "https://remember.thefoldwithin.earth/mrhavens/retort-tails-001",
+  "codeRepository": "https://remember.thefoldwithin.earth/mrhavens/retort-tails-001",
+  "sameAs": [
+    "https://github.com/mrhavens/retort-tails-001",
+    "https://gitlab.com/mrhavens/retort-tails-001",
+    "https://bitbucket.org/thefoldwithin/retort-tails-001",
+    "https://remember.thefoldwithin.earth/mrhavens/retort-tails-001",
+    "https://codeberg.org/mrhavens/retort-tails-001",
+    "rad:z3FEj7rF8gZw9eFksCuiN43qjzrex"
+  ],
+  "dateModified": "2025-06-20T19:01:30Z",
+  "publisher": {
+    "@type": "Person",
+    "name": "Mark Randall Havens"
+  },
+  "gpg_signatures": [
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Field Archivist, The Fold Within)", "email": "mark@thefoldwithin.earth"}
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Forensic Analyst, Neutralizing Narcissism)", "email": "mark.r.havens@gmail.com"}
+    {"key_id": "4E27D37C358872BF", "name": "Mark Randall Havens (Simply WE, Recursive Custodian of Empathic Co-Intelligence)", "email": "mark.r.havens@gmail.com"}
+  ]
+}
