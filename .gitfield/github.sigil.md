@@ -3,28 +3,28 @@
 - **Repo Name**: `retort-tails-001`
 - **GitHub User**: `mrhavens`
 - **Remote URL**: [https://github.com/mrhavens/retort-tails-001](https://github.com/mrhavens/retort-tails-001)
-- **Local Repo Path**: `/mnt/c/fieldcraft/retort-tails-001`
+- **Local Repo Path**: `/mnt/c/fieldcraft/research/neutralizing-narcissism/retort-tails-001`
 - **Remote Label**: `github`
 - **Default Branch**: `master`
-- **This Commit Date**: `2025-06-20 14:47:58`
+- **This Commit Date**: `2025-06-21 09:50:59`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-20 14:47:58`
-- **Last Commit SHA**: `3cf8c6aa92a7d7ec876c5ec98d91de84b2cbab3b`
-- **Last Commit Message**: `Post-Bitbucket sync at 2025-06-20T19:01:30Z`
+- **This Commit Timestamp**: `2025-06-21 09:50:59`
+- **Last Commit SHA**: `d590bbb6e50f80689fa7e0c8033f77030dc2f39e`
+- **Last Commit Message**: `Post-Bitbucket sync at 2025-06-21T14:46:13Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Fri Jun 20 14:47:33 2025 -0500`
-- **This Commit URL**: [https://github.com/mrhavens/retort-tails-001/commit/3cf8c6aa92a7d7ec876c5ec98d91de84b2cbab3b](https://github.com/mrhavens/retort-tails-001/commit/3cf8c6aa92a7d7ec876c5ec98d91de84b2cbab3b)
+- **Last Commit Date**: `Sat Jun 21 09:50:45 2025 -0500`
+- **This Commit URL**: [https://github.com/mrhavens/retort-tails-001/commit/d590bbb6e50f80689fa7e0c8033f77030dc2f39e](https://github.com/mrhavens/retort-tails-001/commit/d590bbb6e50f80689fa7e0c8033f77030dc2f39e)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `78`
-- **Tracked Files**: `126`
+- **Total Commits**: `102`
+- **Tracked Files**: `127`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
 
@@ -48,8 +48,8 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 1 hour, 19 minutes`
-- **MAC Address**: `00:15:5d:c0:f2:fc`
+- **System Uptime**: `up 36 minutes`
+- **MAC Address**: `00:15:5d:f0:19:18`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
