@@ -2,28 +2,28 @@
 
 - **Project Name**: `retort-tails-001`
 - **Radicle URN**: `rad://z2TEDZwr5Y2pKK1sqx2wVBK3Z8GMs`
-- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z2TEDZwr5Y2pKK1sqx2wVBK3Z8GMs/tree/6646ef22cb495d197e8d9627243a8c2f51cfbe88](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z2TEDZwr5Y2pKK1sqx2wVBK3Z8GMs/tree/6646ef22cb495d197e8d9627243a8c2f51cfbe88)
-- **Local Repo Path**: `/mnt/c/fieldcraft/retort-tails-001`
+- **Public Gateway**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z2TEDZwr5Y2pKK1sqx2wVBK3Z8GMs/tree/94c6de2b46de26de1551f8e2984c530ff614619a](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z2TEDZwr5Y2pKK1sqx2wVBK3Z8GMs/tree/94c6de2b46de26de1551f8e2984c530ff614619a)
+- **Local Repo Path**: `/mnt/c/fieldcraft/research/neutralizing-narcissism/retort-tails-001`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-20 14:43:32`
+- **Repo Created**: `2025-06-21 09:49:04`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-20 14:43:32`
-- **Last Commit SHA**: `6646ef22cb495d197e8d9627243a8c2f51cfbe88`
-- **Last Commit Message**: `Post-Local sync at 2025-06-20T19:01:30Z`
+- **This Commit Timestamp**: `2025-06-21 09:49:04`
+- **Last Commit SHA**: `94c6de2b46de26de1551f8e2984c530ff614619a`
+- **Last Commit Message**: `Post-Local sync at 2025-06-21T14:46:13Z`
 - **Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Commit Date**: `Fri Jun 20 14:43:01 2025 -0500`
-- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z2TEDZwr5Y2pKK1sqx2wVBK3Z8GMs/tree/6646ef22cb495d197e8d9627243a8c2f51cfbe88](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z2TEDZwr5Y2pKK1sqx2wVBK3Z8GMs/tree/6646ef22cb495d197e8d9627243a8c2f51cfbe88)
+- **Commit Date**: `Sat Jun 21 09:48:22 2025 -0500`
+- **This Commit URL**: [https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z2TEDZwr5Y2pKK1sqx2wVBK3Z8GMs/tree/94c6de2b46de26de1551f8e2984c530ff614619a](https://app.radicle.xyz/nodes/ash.radicle.garden/rad:z2TEDZwr5Y2pKK1sqx2wVBK3Z8GMs/tree/94c6de2b46de26de1551f8e2984c530ff614619a)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `69`
-- **Tracked Files**: `126`
+- **Total Commits**: `93`
+- **Tracked Files**: `127`
 - **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
 
@@ -47,8 +47,8 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 1 hour, 14 minutes`
-- **MAC Address**: `00:15:5d:c0:f2:fc`
+- **System Uptime**: `up 34 minutes`
+- **MAC Address**: `00:15:5d:f0:19:18`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
