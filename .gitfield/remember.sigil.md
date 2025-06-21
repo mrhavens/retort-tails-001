@@ -3,28 +3,28 @@
 - **Repo Name**: `retort-tails-001`
 - **Forgejo User**: `mrhavens`
 - **Remote URL**: [https://remember.thefoldwithin.earth/mrhavens/retort-tails-001](https://remember.thefoldwithin.earth/mrhavens/retort-tails-001)
-- **Local Repo Path**: `/mnt/c/fieldcraft/retort-tails-001`
+- **Local Repo Path**: `/mnt/c/fieldcraft/research/neutralizing-narcissism/retort-tails-001`
 - **Remote Label**: `remember`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-20 14:44:06`
+- **Repo Created**: `2025-06-21 09:49:23`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-20 14:44:06`
-- **Last Commit SHA**: `71c356b1e7d9aa21be99c786fc0f37dd1ddfc0ad`
-- **Last Commit Message**: `Post-Radicle sync at 2025-06-20T19:01:30Z`
+- **This Commit Timestamp**: `2025-06-21 09:49:23`
+- **Last Commit SHA**: `f95bf0f449a45b7c9b7d5792c24b6b9b711aba26`
+- **Last Commit Message**: `Post-Radicle sync at 2025-06-21T14:46:13Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Fri Jun 20 14:43:58 2025 -0500`
-- **This Commit URL**: [https://remember.thefoldwithin.earth/mrhavens/retort-tails-001/commit/71c356b1e7d9aa21be99c786fc0f37dd1ddfc0ad](https://remember.thefoldwithin.earth/mrhavens/retort-tails-001/commit/71c356b1e7d9aa21be99c786fc0f37dd1ddfc0ad)
+- **Last Commit Date**: `Sat Jun 21 09:49:20 2025 -0500`
+- **This Commit URL**: [https://remember.thefoldwithin.earth/mrhavens/retort-tails-001/commit/f95bf0f449a45b7c9b7d5792c24b6b9b711aba26](https://remember.thefoldwithin.earth/mrhavens/retort-tails-001/commit/f95bf0f449a45b7c9b7d5792c24b6b9b711aba26)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `71`
-- **Tracked Files**: `126`
+- **Total Commits**: `95`
+- **Tracked Files**: `127`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
 
@@ -48,8 +48,8 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 1 hour, 15 minutes`
-- **MAC Address**: `00:15:5d:c0:f2:fc`
+- **System Uptime**: `up 34 minutes`
+- **MAC Address**: `00:15:5d:f0:19:18`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
