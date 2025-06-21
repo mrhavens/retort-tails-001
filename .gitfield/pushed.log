@@ -102,3 +102,7 @@
   Diff Summary:
      .gitfield/radicle.sigil.md | 24 ++++++++++++------------
      1 file changed, 12 insertions(+), 12 deletions(-)
+[2025-06-21T14:49:40Z] Forgejo: https://remember.thefoldwithin.earth/mrhavens/retort-tails-001, Branch=master, Commit=ff73c63
+  Diff Summary:
+     .gitfield/remember.sigil.md | 22 +++++++++++-----------
+     1 file changed, 11 insertions(+), 11 deletions(-)
