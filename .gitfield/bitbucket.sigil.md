@@ -3,28 +3,28 @@
 - **Repo Name**: `retort-tails-001`
 - **Bitbucket Workspace**: `thefoldwithin`
 - **Remote URL**: [https://bitbucket.org/thefoldwithin/retort-tails-001](https://bitbucket.org/thefoldwithin/retort-tails-001)
-- **Local Repo Path**: `/mnt/c/fieldcraft/retort-tails-001`
+- **Local Repo Path**: `/mnt/c/fieldcraft/research/neutralizing-narcissism/retort-tails-001`
 - **Remote Label**: `bitbucket`
 - **Default Branch**: `master`
-- **This Commit Date**: `2025-06-20 14:33:43`
+- **This Commit Date**: `2025-06-21 09:50:34`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-20 14:33:43`
-- **Last Commit SHA**: `317fa59d636cb52d8a49edcf35053b5becf87b1f`
-- **Last Commit Message**: `Post-GitLab sync at 2025-06-20T19:01:30Z`
+- **This Commit Timestamp**: `2025-06-21 09:50:34`
+- **Last Commit SHA**: `268fd99299ca78ed05d028da0ecfbbe6f938083c`
+- **Last Commit Message**: `Post-GitLab sync at 2025-06-21T14:46:13Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Fri Jun 20 14:33:26 2025 -0500`
-- **This Commit URL**: [https://bitbucket.org/thefoldwithin/retort-tails-001/commits/317fa59d636cb52d8a49edcf35053b5becf87b1f](https://bitbucket.org/thefoldwithin/retort-tails-001/commits/317fa59d636cb52d8a49edcf35053b5becf87b1f)
+- **Last Commit Date**: `Sat Jun 21 09:50:21 2025 -0500`
+- **This Commit URL**: [https://bitbucket.org/thefoldwithin/retort-tails-001/commits/268fd99299ca78ed05d028da0ecfbbe6f938083c](https://bitbucket.org/thefoldwithin/retort-tails-001/commits/268fd99299ca78ed05d028da0ecfbbe6f938083c)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `60`
-- **Tracked Files**: `122`
+- **Total Commits**: `100`
+- **Tracked Files**: `127`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `None`
 
@@ -47,12 +47,12 @@
 - **Architecture**: `x86_64`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
-- **MAC Address**: `00:15:5d:c0:f2:fc`
+- **MAC Address**: `00:15:5d:f0:19:18`
 - **Local IP**: `172.18.207.124`
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 1 hour, 3 minutes`
+- **System Uptime**: `up 35 minutes`
 
 ---
 
