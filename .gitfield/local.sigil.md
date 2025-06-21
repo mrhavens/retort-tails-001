@@ -3,28 +3,28 @@
 - **Repo Name**: `retort-tails-001`
 - **Local User**: `mrhavens`
 - **Remote URL**: `file:///home/mrhavens/git-local-repos/git-sigil.git`
-- **Local Repo Path**: `/mnt/c/fieldcraft/retort-tails-001`
+- **Local Repo Path**: `/mnt/c/fieldcraft/research/neutralizing-narcissism/retort-tails-001`
 - **Remote Label**: `local`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-06-20 14:42:31`
+- **Repo Created**: `2025-06-21 09:48:11`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-06-20 14:42:31`
-- **Last Commit SHA**: `836a271c68192a93681d7630fe601bb587472ceb`
-- **Last Commit Message**: `Generated docs/integrity.sha256 at 2025-06-20T19:01:30Z`
+- **This Commit Timestamp**: `2025-06-21 09:48:11`
+- **Last Commit SHA**: `7bab0b48f36cd40f559374eb92d9fe5052a1df97`
+- **Last Commit Message**: `Generated docs/integrity.sha256 at 2025-06-21T14:46:13Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Fri Jun 20 14:42:03 2025 -0500`
+- **Last Commit Date**: `Sat Jun 21 09:48:01 2025 -0500`
 - **This Commit URL**: `file:///home/mrhavens/git-local-repos/git-sigil.git`
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `67`
-- **Tracked Files**: `123`
+- **Total Commits**: `91`
+- **Tracked Files**: `126`
 - **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `None`
 
@@ -48,8 +48,8 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 1 hour, 13 minutes`
-- **MAC Address**: `00:15:5d:c0:f2:fc`
+- **System Uptime**: `up 33 minutes`
+- **MAC Address**: `00:15:5d:f0:19:18`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
 - **Total RAM (GB)**: `3.63`
